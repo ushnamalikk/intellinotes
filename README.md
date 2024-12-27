@@ -10,7 +10,7 @@ The mobile app’s role, tailored for those in academic or creative fields, will
 Below is an overview of how the app will function and its features:
 
 
-<img width="708" alt="Screenshot 2024-03-03 at 11 06 54 PM" src="https://github.com/ushnamalikk/intellinotes/overview.png">
+<img width="708" alt="Screenshot 2024-03-03 at 11 06 54 PM" src="https://github.com/ushnamalikk/intellinotes/blob/main/overview.png">
 
 ## Setup
 
