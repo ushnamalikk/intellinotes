@@ -441,4 +441,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions, feedback, or support, please contact 25020106@lums.edu.pk | 25100208@lums.edu.pk | 25100105@lums.edu.pk
+For questions, feedback, or support, please contact 25020106@lums.edu.pk | 25100208@lums.edu.pk | 25100105@lums.edu.pk | 25100256@lums.edu.pk
